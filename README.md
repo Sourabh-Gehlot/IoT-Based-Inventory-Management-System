@@ -12,7 +12,9 @@ Objectives
 •	Automate chemical inventory monitoring.
 •	Provide real-time weight and volume data via a webpage.
 •	Alert users when the chemical volume drops below a specified threshold.
-Components Used
+
+3. Components Used
+4. 
 Component          	   Quantity	   Description
 ESP32 Microcontroller	    1	       Hosts the web server and processes sensor data.
 HX711 Load Cell Module	  1	       Measures the weight of the container.
