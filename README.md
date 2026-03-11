@@ -14,13 +14,14 @@ Objectives
 •	Alert users when the chemical volume drops below a specified threshold.
 
 3. Components Used
-4. 
-Component          	   Quantity	   Description
-ESP32 Microcontroller	    1	       Hosts the web server and processes sensor data.
-HX711 Load Cell Module	  1	       Measures the weight of the container.
-Load Cell	                1	       Senses the weight of the object.
-Wi-Fi Network	            1        For real-time monitoring via the web.
-Item	                    1	       Used as a object to sense
+
+Components
+
+1. ESP32 Microcontroller	 -  Hosts the web server and processes sensor data.
+2. HX711 Load Cell Module  -  Measures the weight of the container.
+3. Load Cell	             -  Senses the weight of the object.
+4. Wi-Fi Network	         -  For real-time monitoring via the web.
+5. Item	                   -  Used as a object to sense
 
 
 We can calliberate the equipment with standard weight of a particaular object and find out the number of items (as multiplier of weight) in that particular shelf.
